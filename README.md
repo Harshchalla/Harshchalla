@@ -15,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshchalla&show_icons=true&locale=en" alt="harshchalla" /></p>
 
+ <img align="center" alt="Harsh's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshchalla&theme=radical&layout=compact" />
