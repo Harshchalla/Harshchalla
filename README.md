@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Harsh Challa</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h3 align="center">A Software Development Student from India</h3>
 
 - 📫 How to reach me **hrzc204@gmail.com**
 
