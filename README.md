@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm Harsh Challa</h1>
-<h3 align="center">A Computer Science Student from Tempe,Arizona</h3>
-<h3 align="center">Currently Pursing Masters of Science in Computer Science from Arizona State University</h3>
+<h1 align="center">Hi 👋, I'm Harsh Victor Challa</h1>
+<h3 align="left">A Computer Science Student from Tempe,Arizona</h3>
+<h3 align="left">Currently Pursing Masters of Science in Computer Science from Arizona State University (GPA 4.0/4.0)</h3>
 
 - 📫 How to reach me **harshchalla24@gmail.com**
 
