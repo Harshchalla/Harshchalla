@@ -48,9 +48,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/harsh-challa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Challa" height="30" width="40" 
-      
-      />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Challa" height="30" width="40"/>
+    harsh-challa
   </a>
 </p>
 
