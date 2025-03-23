@@ -14,9 +14,9 @@
 <h3 align="left">About Me:</h3>
 
 - 🎓 Currently pursuing a Master of Science in Computer Science (GPA: 4.0/4.0)
-- 🌱 I’m deeply interested in data engineering, cloud computing, and big data technologies.
+- 🌱 I’m deeply interested in Software development, Data and Cloud Technologies.
 - 📫 How to reach me: **harshchalla24@gmail.com**
-- ⚡ Fun fact: I love building scalable systems and pipelines for processing large-scale data!
+
 
 ---
 
@@ -32,15 +32,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
   <img src="https://img.shields.io/badge/Jupyter-FF4C02?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
-
-<h4>Some Notable Projects:</h4>
-
-- **[Sports-Data-Processing-Pipeline](https://github.com/Harshchalla/Sports-Data-Processing-Pipeline)**: Jupyter Notebook | Data Processing, Pipelines
-- **[Real-Time-Stock-Market-Data-Pipeline](https://github.com/Harshchalla/Real-Time-Stock-Market-Data-Pipeline)**: Stock Market Data, Financial APIs
-- **[Elastic-Image-Recognition-Service-on-AWS](https://github.com/Harshchalla/Elastic-Image-Recognition-Service-on-AWS)**: AWS, Image Recognition
-- **[Breast-Cancer-Predictor-Using-ML](https://github.com/Harshchalla/Breast-Cancer-Predictor-Using-ML)**: Machine Learning, Jupyter Notebook
 
 ---
 
@@ -71,9 +63,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshchalla&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-<h3 align="left">Resume:</h3>
-<p align="left">
-  <a href="https://drive.google.com/file/d/1gbN51CEDTjegZjNrTxNZPe_0YhKVApJR/view?usp=sharing" target="_blank">Click here to view my resume</a>
-</p>
+
